@@ -1,0 +1,17 @@
+{
+  "name": "a1s",
+  "authors": [
+    "Renan <spectarefutura@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
