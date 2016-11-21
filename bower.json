@@ -6,12 +6,16 @@
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/Renan-crs/a1s",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
